@@ -1,0 +1,22 @@
+{
+  "name": "restify-app",
+  "version": "1.0.0",
+  "description": "API RESTFul com NodeJs e Restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Restify",
+    "NodeJS"
+  ],
+  "author": "Paulo Roberto",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.10",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "restify-cors-middleware": "^1.1.1"
+  }
+}
